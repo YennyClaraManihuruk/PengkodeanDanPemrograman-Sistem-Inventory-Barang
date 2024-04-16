@@ -69,3 +69,14 @@ https://github.com/ZibranovSky/Web-Inventory-Barang
 ![Menu Login]
 BEFORE ![IMG-20240416-WA0027](https://github.com/YennyClaraManihuruk/PengkodeanDanPemrograman-Sistem-Inventory-Barang/assets/166583340/bf8bf0c3-8525-4296-889f-c76d979a510b)
 AFTER ![Screenshot 2024-04-17 000733](https://github.com/YennyClaraManihuruk/PengkodeanDanPemrograman-Sistem-Inventory-Barang/assets/166583340/2b004d8d-6939-49d1-9841-dc5a615e681a)
+![home page Admin]
+BEFORE ![IMG-20240416-WA0026](https://github.com/YennyClaraManihuruk/PengkodeanDanPemrograman-Sistem-Inventory-Barang/assets/166583340/5b5097cd-7837-41a8-b9a3-e292da4ff482)
+AFTER ![Screenshot 2024-04-16 234401](https://github.com/YennyClaraManihuruk/PengkodeanDanPemrograman-Sistem-Inventory-Barang/assets/166583340/53462279-0b48-45c3-8dc4-af0d0c98a154)
+ ![home page Petugas]
+BEFORE ![WhatsApp Image 2024-04-16 at 23 42 56_9f630090](https://github.com/YennyClaraManihuruk/PengkodeanDanPemrograman-Sistem-Inventory-Barang/assets/166583340/a7957ca5-f20b-4b7e-9838-3fd7250fccb9)
+AFTER ![Screenshot 2024-04-16 234121](https://github.com/YennyClaraManihuruk/PengkodeanDanPemrograman-Sistem-Inventory-Barang/assets/166583340/af6cc81c-eece-4703-bedb-242905f35194)
+![Profil]
+BEFORE ![IMG-20240416-WA0022](https://github.com/YennyClaraManihuruk/PengkodeanDanPemrograman-Sistem-Inventory-Barang/assets/166583340/e44b0cbb-493d-45e6-9c4b-d6ee6d7792d3)
+AFTER ![Screenshot 2024-04-17 003343](https://github.com/YennyClaraManihuruk/PengkodeanDanPemrograman-Sistem-Inventory-Barang/assets/166583340/171e8ae9-8eb6-4aa4-bf75-9b536176bdca)
+![ERD]
+![image](https://github.com/YennyClaraManihuruk/PengkodeanDanPemrograman-Sistem-Inventory-Barang/assets/166583340/ef6b08f6-a05e-4eed-8f30-ece48ee15aa5)
