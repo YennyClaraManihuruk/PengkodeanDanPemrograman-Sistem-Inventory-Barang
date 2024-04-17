@@ -44,8 +44,8 @@ Website inventory adalah aplikasi berbasis Web untuk mengatur dan mencatat kelua
  
   2. Login Petugas
    <ul type="square">
-    <li>username = Leonardo Davinsi</li>
-    <li>password = 12345</li>
+    <li>username = petugas</li>
+    <li>password = petugas</li>
 
     
   </ul>
