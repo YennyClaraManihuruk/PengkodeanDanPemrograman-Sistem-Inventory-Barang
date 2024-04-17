@@ -44,8 +44,8 @@ Website inventory adalah aplikasi berbasis Web untuk mengatur dan mencatat kelua
  
   2. Login Petugas
    <ul type="square">
-    <li>username = petugas</li>
-    <li>password = petugas</li>
+    <li>username = Leonardo Davinsi</li>
+    <li>password = 12345</li>
 
     
   </ul>
@@ -66,21 +66,29 @@ Jika ada bagian yang error atau yang ada ingin ditambahkan mohon hubungi :
 https://github.com/ZibranovSky/Web-Inventory-Barang
 
 # [Perbedaan]
-![Menu Login]
+Menu Login
 
 BEFORE ![IMG-20240416-WA0027](https://github.com/YennyClaraManihuruk/PengkodeanDanPemrograman-Sistem-Inventory-Barang/assets/166583340/bf8bf0c3-8525-4296-889f-c76d979a510b)
 AFTER ![Screenshot 2024-04-17 000733](https://github.com/YennyClaraManihuruk/PengkodeanDanPemrograman-Sistem-Inventory-Barang/assets/166583340/2b004d8d-6939-49d1-9841-dc5a615e681a)
-![home page Admin]
+
+Home Page Admin
 
 BEFORE ![IMG-20240416-WA0026](https://github.com/YennyClaraManihuruk/PengkodeanDanPemrograman-Sistem-Inventory-Barang/assets/166583340/5b5097cd-7837-41a8-b9a3-e292da4ff482)
 AFTER !![Screenshot 2024-04-17 005223](https://github.com/YennyClaraManihuruk/PengkodeanDanPemrograman-Sistem-Inventory-Barang/assets/166583340/6cfd7b5b-3d91-4414-b53a-7439a39c6f18)
- ![home page Petugas]
+ 
+ Home Page Petugas
  
 BEFORE ![WhatsApp Image 2024-04-16 at 23 42 56_9f630090](https://github.com/YennyClaraManihuruk/PengkodeanDanPemrograman-Sistem-Inventory-Barang/assets/166583340/a7957ca5-f20b-4b7e-9838-3fd7250fccb9)
 AFTER ![Screenshot 2024-04-16 234121](https://github.com/YennyClaraManihuruk/PengkodeanDanPemrograman-Sistem-Inventory-Barang/assets/166583340/af6cc81c-eece-4703-bedb-242905f35194)
-![Profil]
+
+Profil
 
 BEFORE ![IMG-20240416-WA0022](https://github.com/YennyClaraManihuruk/PengkodeanDanPemrograman-Sistem-Inventory-Barang/assets/166583340/e44b0cbb-493d-45e6-9c4b-d6ee6d7792d3)
 AFTER ![Screenshot 2024-04-17 003343](https://github.com/YennyClaraManihuruk/PengkodeanDanPemrograman-Sistem-Inventory-Barang/assets/166583340/171e8ae9-8eb6-4aa4-bf75-9b536176bdca)
-![ERD]
+
+Data rak
+BEFORE ![IMG-20240416-WA0023](https://github.com/YennyClaraManihuruk/PengkodeanDanPemrograman-Sistem-Inventory-Barang/assets/166583340/bafea01c-51c8-4f4b-8792-a33a9f93888e)
+AFTER ![Screenshot 2024-04-17 082039](https://github.com/YennyClaraManihuruk/PengkodeanDanPemrograman-Sistem-Inventory-Barang/assets/166583340/f0356166-a8b1-4872-8a7d-8a2d1b2d69b9)
+
+ERD
 ![image](https://github.com/YennyClaraManihuruk/PengkodeanDanPemrograman-Sistem-Inventory-Barang/assets/166583340/ef6b08f6-a05e-4eed-8f30-ece48ee15aa5)
